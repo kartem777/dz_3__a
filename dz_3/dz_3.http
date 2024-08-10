@@ -1,0 +1,6 @@
+@dz_3_HostAddress = http://localhost:5223
+
+GET {{dz_3_HostAddress}}
+Accept: application/json
+
+###
